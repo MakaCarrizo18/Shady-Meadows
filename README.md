@@ -6,6 +6,8 @@ https://drive.google.com/drive/folders/1WPyteX_v8VvpiWcuZIuBXdAlLnD-B_PH?usp=sha
 
 https://docs.google.com/spreadsheets/d/1GSVr-nWYQTep3M0ypN5ccVRyoCRwHO5W/edit?usp=sharing&ouid=115217304469199323385&rtpof=true&sd=true
 
+Aclaración: los bugs estan en trello. La plantilla excel solo posee casos positivos, negativos y bordes.
+
 Integrante: 
 Carrizo Yamila Makarena
 maka.carrizo18@gmail.com
